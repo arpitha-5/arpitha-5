@@ -2,7 +2,7 @@
 
 💻 **CSE Student | Aspiring Full-Stack Developer**  
 🌱 Skilled in **JavaScript, Node.js, React, MongoDB** and building **scalable, real-world web applications**  
-🚀 Passionate about **AI, Cybersecurity, and modern web technologies**  
+🚀 Passionate about **AI, and modern web technologies**  
 💡 Driven by solving problems creatively and continuously learning new tools and frameworks  
 📚 Building projects that demonstrate **practical skills and impact**, including full-stack apps and student platforms  
 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/arpitha-medarametla) | [GitHub](https://github.com/arpitha-5)
