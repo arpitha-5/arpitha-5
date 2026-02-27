@@ -25,12 +25,6 @@
 ---
 
 
-## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=arpitha-5&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=arpitha-5&layout=compact&theme=radical&hide_border=true"/>
-</p>
-
 ---
 
 ## 💡 Fun Fact
