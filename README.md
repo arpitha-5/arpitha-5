@@ -1,130 +1,142 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ======================= HEADER ======================= -->
 
 <h1 align="center">Hi 👋, I'm Arpitha Medarametla</h1>
-<h3 align="center">💻 CSE Student | 🚀 Full-Stack Developer | 🤖 AI Enthusiast</h3>
+<h3 align="center">🚀 CSE Student | Full-Stack Developer | MERN Stack Enthusiast</h3>
 
 <p align="center">
-  <a href="https://arpitha-medarametla-pc87.onrender.com/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  <a href="https://arpitha-medarametla-pc87.onrender.com/">
+    <img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge" />
   </a>
-  <a href="https://www.linkedin.com/in/arpitha-medarametla" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/arpitha-medarametla">
+    <img src="https://img.shields.io/badge/LinkedIn-Arpitha_Medarametla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/arpitha-5" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-arpitha--5-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/arpitha-5">
+    <img src="https://img.shields.io/badge/GitHub-arpitha--5-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
 
-<!-- ==================== TYPING ANIMATION ==================== -->
+<!-- ======================= ANIMATED TYPING ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F72585&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;MERN+Stack+Specialist;Building+Scalable+Web+Applications;Passionate+About+AI+%26+Modern+Tech;Always+Learning+New+Technologies"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=F700FF&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;MERN+Stack+Enthusiast;AI+Explorer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-- 🎓 Computer Science Engineering Student  
-- 💻 Skilled in **JavaScript, Node.js, React, MongoDB**  
-- 🏗️ Building scalable, real-world web applications  
-- 🤖 Exploring **AI & LLM-based applications**  
-- 🌱 Constantly learning modern frameworks & tools  
-- 🎯 Focused on practical impact-driven projects  
+- 🎓 3rd Year B.Tech CSE Student  
+- 💻 Building **real-world scalable full-stack applications**
+- 🚀 Currently working on MERN Stack & AI-powered platforms
+- 📚 Exploring Backend Architecture & System Design
+- 🌱 Constantly learning and improving problem-solving skills
+- 🎯 Goal: Become a highly skilled Full-Stack Engineer
 
 ---
 
-# 🛠️ Tech Stack & Tools
+# 🛠️ Tech Stack
 
-## 💻 Frontend
+## 🌐 Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ## ⚙️ Backend
 <p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-## 🧠 Languages
+## 🗄️ Database
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mongodb" />
 </p>
 
-## ☁️ Tools & DevOps
+## 🧠 Programming Languages
 <p>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=java,python" />
+</p>
+
+## 🔧 Tools & Platforms
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arpitha-5&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitha-5&layout=compact&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=arpitha-5&show_icons=true&theme=radical&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitha-5&layout=compact&theme=radical&hide_border=true" height="180"/>
 </p>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arpitha-5&theme=radical&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=arpitha-5&theme=radical&hide_border=true" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/arpitha-5/arpitha-5/output/github-contribution-grid-snake.svg"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=arpitha-5&theme=radical&no-frame=true&margin-w=15" />
 </p>
 
 ---
 
-# 🌐 Portfolio
-
-💎 Explore my live projects and full-stack applications here:
-
-👉 **https://arpitha-medarametla-pc87.onrender.com/**
-
----
-
-# 💡 Fun Fact
-
-I love building creative apps, solving real-world problems, and learning new technologies daily 🚀✨  
-
----
-
-# 🔗 Connect With Me
+# 📈 Contribution Graph
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arpitha-medarametla">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="https://github.com/arpitha-5">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arpitha-5&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-⭐ From Arpitha Medarametla | Building Future-Ready Web Solutions
+# 🚀 Featured Projects
+
+✨ **Campus Connect** – Advanced Student Collaboration Platform  
+✨ **Secure Billing & Payment Management System** – Production-ready .NET Billing App  
+✨ **MERN E-Commerce Store** – Full-featured shopping platform  
+✨ **AI Career Guidance Platform** – Personalized career recommendation system  
+
+👉 Explore more on my Portfolio:  
+🌐 https://arpitha-medarametla-pc87.onrender.com/
+
+---
+
+# 💡 Developer Mindset
+
+> "Code. Learn. Build. Improve. Repeat." 🔥  
+
+I believe in building practical applications that solve real-world problems and showcase strong engineering skills.
+
+---
+
+# 👀 Profile Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=arpitha-5&label=Profile%20Views&color=blueviolet&style=flat" />
+</p>
+
+---
+
+# 📫 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/arpitha-medarametla">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/arpitha-5">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
+
+---
+
+⭐ From [Arpitha Medarametla](https://github.com/arpitha-5)
