@@ -1,4 +1,4 @@
-exactlu updated this and give # 👋 Hi, I’m Arpitha Medarametla
+# 👋 Hi, I’m Arpitha Medarametla
 
 💻 **CSE Student | Aspiring Full-Stack Developer**  
 🌱 Skilled in **JavaScript, Node.js, React, MongoDB** and building **scalable, real-world web applications**  
